@@ -4,3 +4,4 @@ export default interface Energy {
   type_: EnergyType;
   amount: number;
 }
+// SEARCH TYPE
